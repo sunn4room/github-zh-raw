@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         github-zh raw
-// @version      1.4
+// @version      1.5
 // @description  customize github-zh pages
 // @author       sunn4room
 // @match        https://www.github-zh.com/search/result?*
@@ -8,8 +8,8 @@
 // @icon         https://www.github-zh.com/favicon.ico
 // @grant        none
 // @require      https://scriptcat.org/lib/513/2.1.0/ElementGetter.js#sha256=aQF7JFfhQ7Hi+weLrBlOsY24Z2ORjaxgZNoni7pAz5U=
-// @downloadURL  https://cdn.jsdelivr.net/gh/sunn4room/github-zh-raw@1.4/index.js
-// @updateURL    https://cdn.jsdelivr.net/gh/sunn4room/github-zh-raw@master/index.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/sunn4room/github-zh-raw@1.5/index.js
+// @updateURL    https://cdn.jsdelivr.net/gh/sunn4room/github-zh-raw@main/index.js
 // ==/UserScript==
 
 (function () {
